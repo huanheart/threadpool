@@ -13,7 +13,7 @@
 所以线程是安全的，
 
 
-![image ](https://github.com/huanheart/threadpool/image/testphoto.png)
+![image ](https://github.com/huanheart/threadpool/blob/master/image/testphoto.png)
 
 ## 待扩展
 
